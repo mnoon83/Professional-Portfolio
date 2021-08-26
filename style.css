@@ -1,14 +1,32 @@
-img {
-  width 300px;
+.img {
+  width: 300px;
   height: 200px;
 }
 
-ul {
-  text-align: center;
-}
-
-center {
-  font-size: 30px;
+.header {
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
   background-color: blue;
 }
 
+.nav-justify-content-center {
+  margin-left: 47px;
+}
+
+.links {
+  margin-left: 50px;
+}
+
+.title {
+  margin-left: 117px;
+  font-size: 32px;
+}
+
+.img {
+  margin-left: 32px;
+}
+
+.all {
+  width: 360px;
+  margin: 0 auto;
+}
